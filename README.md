@@ -165,10 +165,4 @@ API data provided by [Jolpica F1 API](https://api.jolpi.ca) (open source, free).
 
 ---
 
-## License
-
-Private repository. Not for redistribution.
-
----
-
-*Built by LOHITH G · April 2026 · [lohithpitwall.netlify.app](https://lohithpitwall.netlify.app)*
+*Built by LOHITH G · [lohithpitwall.netlify.app](https://lohithpitwall.netlify.app)*
