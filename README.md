@@ -2,7 +2,7 @@
 
 > A live, personalised Formula 1 season dashboard. Real-time championship data, race countdown, full calendar, and a dedicated Verstappen tracker — all in a single HTML file with zero dependencies.
 
-**[→ Live Demo](https://lohithpitwall.netlify.app)**
+**[→ Live Demo](https://my-f1-pitwall.vercel.app/)**
 
 ---
 
@@ -165,4 +165,4 @@ API data provided by [Jolpica F1 API](https://api.jolpi.ca) (open source, free).
 
 ---
 
-*Built by LOHITH G · [lohithpitwall.netlify.app](https://lohithpitwall.netlify.app)*
+*Built by LOHITH G · [my-f1-pitwall.vercel.app](https://my-f1-pitwall.vercel.app/)*
