@@ -1,6 +1,6 @@
 # 🏁 F1 Pit Wall Dashboard — LOHITH G
 
-> A live, personalised Formula 1 season dashboard. Real-time championship data, race countdown, full calendar, and a dedicated Verstappen tracker — all in a single HTML file with zero dependencies.
+> A live, personalised Formula 1 season dashboard. Real-time championship data, race countdown, full calendar, and a dedicated Verstappen tracker and redbull team tracker  — all in a single HTML file with zero dependencies.
 
 **[→ Live Demo](https://my-f1-pitwall.vercel.app/)**
 
