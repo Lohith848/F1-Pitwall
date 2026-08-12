@@ -161,7 +161,7 @@ Original design concept adapted and significantly modified:
 - API status bar + auto-refresh loop
 - Countdown timer logic
 
-API data provided by [Jolpica F1 API](https://api.jolpi.ca) (open source, free).
+
 
 ---
 
