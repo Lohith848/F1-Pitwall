@@ -1,4 +1,4 @@
-# 🏁 F1 Pit Wall Dashboard.
+# F1 Pit Wall Dashboard.
 
 > A live, personalised Formula 1 season dashboard. Real-time championship data, race countdown, full calendar, and a dedicated Verstappen tracker and redbull team tracker  — all in a single HTML file with zero dependencies.
 
